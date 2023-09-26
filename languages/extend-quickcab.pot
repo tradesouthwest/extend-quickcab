@@ -1,0 +1,284 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: extend-quickcab\n"
+"POT-Creation-Date: 2023-09-26 10:42-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Tradesouthwest\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e;_n;"
+"_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/_extend-quickcab-checkout.php:44
+msgid "Districts"
+msgstr ""
+
+#: inc/_extend-quickcab-checkout.php:54
+msgid "Avviso di districtlazione"
+msgstr ""
+
+#: inc/_extend-quickcab-users.php:53 inc/extend-quickcab-functions.php:10
+msgid "Informazioni scuola"
+msgstr ""
+
+#: inc/_extend-quickcab-users.php:57 inc/_extend-quickcab-users.php:145
+#: inc/_extend-quickcab-users.php:183 inc/_extend-quickcab-users.php:272
+#: inc/extend-quickcab-functions.php:14 inc/extend-quickcab-functions.php:98
+#: inc/extend-quickcab-functions.php:138 inc/extend-quickcab-functions.php:231
+msgid "Istituto comprensivo"
+msgstr ""
+
+#: inc/_extend-quickcab-users.php:63 inc/extend-quickcab-functions.php:20
+msgid "Contatto"
+msgstr ""
+
+#: inc/_extend-quickcab-users.php:71 inc/_extend-quickcab-users.php:149
+#: inc/_extend-quickcab-users.php:193 inc/_extend-quickcab-users.php:273
+#: inc/extend-quickcab-functions.php:26
+msgid "Scuola per cui prenotare"
+msgstr ""
+
+#: inc/_extend-quickcab-users.php:78 inc/_extend-quickcab-users.php:153
+#: inc/_extend-quickcab-users.php:203 inc/_extend-quickcab-users.php:274
+#: inc/extend-quickcab-functions.php:32 inc/extend-quickcab-functions.php:107
+#: inc/extend-quickcab-functions.php:159 inc/extend-quickcab-functions.php:235
+msgid "Istituzione scolastica"
+msgstr ""
+
+#: inc/_extend-quickcab-users.php:86 inc/extend-quickcab-functions.php:39
+msgid "If District, Name"
+msgstr ""
+
+#: inc/_extend-quickcab-users.php:157 inc/_extend-quickcab-users.php:210
+msgid "District name"
+msgstr ""
+
+#: inc/_extend-quickcab-users.php:161 inc/_extend-quickcab-users.php:219
+#: inc/extend-quickcab-functions.php:116 inc/extend-quickcab-functions.php:177
+msgid "Avviso di cancellazione"
+msgstr ""
+
+#: inc/_extend-quickcab-users.php:178 inc/extend-quickcab-functions.php:133
+msgid "Informazioni sulla scuola e sugli utenti"
+msgstr ""
+
+#: inc/_extend-quickcab-users.php:235
+msgid "Please enter school name into this field."
+msgstr ""
+
+#: inc/_extend-quickcab-users.php:275
+msgid "District"
+msgstr ""
+
+#: inc/extend-quickcab-admin.php:21
+msgid "Extend Quickcab Options"
+msgstr ""
+
+#: inc/extend-quickcab-admin.php:22
+msgid "Extend Quickcab Settings"
+msgstr ""
+
+#: inc/extend-quickcab-admin.php:54
+msgid "Checkout Messages"
+msgstr ""
+
+#: inc/extend-quickcab-admin.php:65
+msgid "Cancellation message. "
+msgstr ""
+
+#: inc/extend-quickcab-admin.php:66 inc/extend-quickcab-admin.php:84
+msgid "Leave blank for none."
+msgstr ""
+
+#: inc/extend-quickcab-admin.php:72
+msgid "Booking Notice"
+msgstr ""
+
+#: inc/extend-quickcab-admin.php:83
+msgid "First booking form message. "
+msgstr ""
+
+#: inc/extend-quickcab-admin.php:90
+msgid "Booking Warning"
+msgstr ""
+
+#: inc/extend-quickcab-admin.php:101
+msgid "Warning select message. "
+msgstr ""
+
+#: inc/extend-quickcab-admin.php:102
+msgid ""
+"Se non si tratta di un viaggio di sola andata, seleziona Ritorna adesso."
+msgstr ""
+
+#: inc/extend-quickcab-admin.php:216
+msgid "Extend Quickcab"
+msgstr ""
+
+#: inc/extend-quickcab-functions.php:193
+msgid "Please enter school type field."
+msgstr ""
+
+#: inc/extend-quickcab-functions.php:237
+msgid "Cancellation"
+msgstr ""
+
+#: quickcab/form1-orig.php:7 quickcab/form1.php:7
+msgid "You must create at least 1 vehicle to show the form."
+msgstr ""
+
+#: quickcab/form1-orig.php:33 quickcab/form1-orig.php:70
+#: quickcab/form1-orig.php:345 quickcab/form1.php:39 quickcab/form1.php:76
+#: quickcab/form1.php:354
+msgid "Journey Information"
+msgstr ""
+
+#: quickcab/form1-orig.php:41 quickcab/form1.php:47
+msgid "Select Vehicle"
+msgstr ""
+
+#: quickcab/form1-orig.php:49 quickcab/form1.php:55
+msgid "Payment"
+msgstr ""
+
+#: quickcab/form1-orig.php:75 quickcab/form1.php:81
+msgid "Collection Address"
+msgstr ""
+
+#: quickcab/form1-orig.php:82 quickcab/form1.php:88
+msgid "Select a collection address"
+msgstr ""
+
+#: quickcab/form1-orig.php:112 quickcab/form1-orig.php:147
+#: quickcab/form1.php:118 quickcab/form1.php:153
+msgid ""
+"You must select an option from the drop-down that appears when you type."
+msgstr ""
+
+#: quickcab/form1-orig.php:122 quickcab/form1.php:128
+msgid "Destination Address"
+msgstr ""
+
+#: quickcab/form1-orig.php:129 quickcab/form1.php:135
+msgid "Select a destination address"
+msgstr ""
+
+#: quickcab/form1-orig.php:155 quickcab/form1.php:161
+msgid "Options"
+msgstr ""
+
+#: quickcab/form1-orig.php:162 quickcab/form1.php:168
+msgid "Direction"
+msgstr ""
+
+#: quickcab/form1-orig.php:167 quickcab/form1.php:173
+msgid "One Way"
+msgstr ""
+
+#: quickcab/form1-orig.php:170 quickcab/form1.php:176
+msgid "Return"
+msgstr ""
+
+#: quickcab/form1-orig.php:181 quickcab/form1.php:190
+msgid "Passengers"
+msgstr ""
+
+#: quickcab/form1-orig.php:197 quickcab/form1.php:206
+msgid "Passeggeri minorenni"
+msgstr ""
+
+#: quickcab/form1-orig.php:214 quickcab/form1.php:223
+msgid "Departure Date"
+msgstr ""
+
+#: quickcab/form1-orig.php:216 quickcab/form1-orig.php:240
+#: quickcab/form1.php:225 quickcab/form1.php:249
+msgid "Date"
+msgstr ""
+
+#: quickcab/form1-orig.php:221 quickcab/form1.php:230
+msgid "Departure Time"
+msgstr ""
+
+#: quickcab/form1-orig.php:225 quickcab/form1-orig.php:249
+#: quickcab/form1.php:234 quickcab/form1.php:258
+msgid "Time"
+msgstr ""
+
+#: quickcab/form1-orig.php:238 quickcab/form1.php:247
+msgid "Return Departure Date"
+msgstr ""
+
+#: quickcab/form1-orig.php:245 quickcab/form1.php:254
+msgid "Return Departure Time"
+msgstr ""
+
+#: quickcab/form1-orig.php:263 quickcab/form1.php:272
+msgid "Extra Waiting Time"
+msgstr ""
+
+#: quickcab/form1-orig.php:270 quickcab/form1.php:279
+msgid "hour"
+msgstr ""
+
+#: quickcab/form1-orig.php:270 quickcab/form1.php:279
+msgid "hours"
+msgstr ""
+
+#: quickcab/form1-orig.php:276 quickcab/form1.php:285
+msgid "minutes"
+msgstr ""
+
+#: quickcab/form1-orig.php:289 quickcab/form1.php:298
+msgid "Map"
+msgstr ""
+
+#: quickcab/form1-orig.php:294 quickcab/form1.php:303
+msgid "Loading map"
+msgstr ""
+
+#: quickcab/form1-orig.php:304 quickcab/form1-orig.php:365
+#: quickcab/form1.php:313 quickcab/form1.php:374
+msgid "Distance"
+msgstr ""
+
+#: quickcab/form1-orig.php:317 quickcab/form1.php:326
+msgid "Journey Time"
+msgstr ""
+
+#: quickcab/form1-orig.php:333 quickcab/form1.php:342
+msgid "Finding vehicles"
+msgstr ""
+
+#: quickcab/form1-orig.php:333 quickcab/form1-orig.php:334
+#: quickcab/form1.php:342 quickcab/form1.php:343
+msgid "Select vehicle"
+msgstr ""
+
+#: quickcab/form1-orig.php:349 quickcab/form1.php:358
+msgid "Route"
+msgstr ""
+
+#: quickcab/form1-orig.php:354 quickcab/form1.php:363
+msgid "Collection Time"
+msgstr ""
+
+#: quickcab/form1-orig.php:359 quickcab/form1.php:368
+msgid "Return Collection Time"
+msgstr ""
+
+#: quickcab/form1-orig.php:372 quickcab/form1.php:381
+msgid "Duration"
+msgstr ""
+
+#: quickcab/form1-orig.php:380 quickcab/form1.php:389
+msgid "Back"
+msgstr ""
